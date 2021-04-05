@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="NBA1" tvg-logo="https://elordenmundial.com/wp-content/uploads/2020/10/NBA-logo-baloncesto-historia-deporte-estados-unidos.jpg" group-title="NBA",NBA1
+http://cdn.maskamr.xyz/live/NBA1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBA2" tvg-logo="https://elordenmundial.com/wp-content/uploads/2020/10/NBA-logo-baloncesto-historia-deporte-estados-unidos.jpg" group-title="NBA",NBA2
+http://cdn.maskamr.xyz/live/NBA2/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBA3" tvg-logo="https://elordenmundial.com/wp-content/uploads/2020/10/NBA-logo-baloncesto-historia-deporte-estados-unidos.jpg" group-title="NBA",NBA3
+http://cdn.maskamr.xyz/live/NBA3/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBA4" tvg-logo="https://elordenmundial.com/wp-content/uploads/2020/10/NBA-logo-baloncesto-historia-deporte-estados-unidos.jpg" group-title="NBA",NBA4
+http://cdn.maskamr.xyz/live/NBA4/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBA5" tvg-logo="https://elordenmundial.com/wp-content/uploads/2020/10/NBA-logo-baloncesto-historia-deporte-estados-unidos.jpg" group-title="NBA",NBA5
+http://cdn.maskamr.xyz/live/NBA5/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBA6" tvg-logo="https://elordenmundial.com/wp-content/uploads/2020/10/NBA-logo-baloncesto-historia-deporte-estados-unidos.jpg" group-title="NBA",NBA6
+http://cdn.maskamr.xyz/live/NBA6/chunks.m3u8
